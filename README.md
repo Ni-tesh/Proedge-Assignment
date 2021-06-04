@@ -1,0 +1,2 @@
+# Proedge-Assignment
+ 1. A frontend that accepts a comma-separated list of roll numbers (front end must be in React or Nextjs)  2. On entering the value and pressing submit, a request should be sent to the backend (write a backend API in node js to accept this from the frontend)  3. From the backend, you have to call an external API to get the pass/fail result, as follows: http://proedge.me/test.php?rollnumber=123
